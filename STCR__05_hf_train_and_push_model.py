@@ -1,3 +1,9 @@
+"""
+@STCGoal Relevant Storage for Datasets, why would we need a centralized, sharable location for Datasets ? How do we train using that datasets and also publish the model for reuse in observing reality and get an output from the inputs observed in reality ?
+
+"""
+
+
 #pip install datasets
 #%%
 from datasets import Dataset
